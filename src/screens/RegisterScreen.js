@@ -8,7 +8,7 @@ const RegisterScreen = () => {
     const [open, setOpen] = React.useState(false);
     const [value, setValue] = React.useState(null);
     const [items, setItems] = React.useState([
-        { label: 'Alumno', value: '1' },
+        { label: 'Alumnoo', value: '1' },
         { label: 'Maestro', value: '2' }
     ]);
     return (
