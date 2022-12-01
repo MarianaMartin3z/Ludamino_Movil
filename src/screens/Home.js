@@ -13,7 +13,7 @@ const Home = ({ navigation }) => {
                     <Card.Content>
                         <View>
                             <Text style={styles.negro} bold Paragraph>Conoce ludamino</Text>
-                            <Text bold h6>La app de clases mas efectiva yei</Text>
+                            <Text bold h6>La Ap de clases mas efectiva yei</Text>
                         </View>
                     </Card.Content>
                     <View style={styles.container}>
