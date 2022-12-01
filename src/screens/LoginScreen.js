@@ -12,7 +12,7 @@ const LoginScreen = ({ navigation }) => {
             </View>
             <View style={styles.container1}>
                 <Input placeholder="Correo" type='email-addres'></Input>
-                <Input placeholder="Contraceña" password viewPass />
+                <Input placeholder="Contraceña uwu" password viewPass />
                 <Button onPress={() => navigation.navigate("Cursos")} color="#555273">Ingresar</Button>
             </View>
         </View>
