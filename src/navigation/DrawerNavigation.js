@@ -25,9 +25,9 @@ export function DrawerNavigation() {
             drawerActiveBackgroundColor: "#555273",
             drawerActiveTintColor: "white"
         }} >
-            <Drawer.Screen name="Inicio" component={Home} />
-            <Drawer.Screen name="Login" component={LoginScreen} />
-            <Drawer.Screen name="Registrarse" component={RegisterScreen} />
+            <Drawer.Screen name="Inicio2" component={Home} />
+            <Drawer.Screen name="Login2" component={LoginScreen} />
+            <Drawer.Screen name="Registrarse2" component={RegisterScreen} />
             <Drawer.Screen name="Cursos" component={CursosScreen} />
 
         </Drawer.Navigator >
