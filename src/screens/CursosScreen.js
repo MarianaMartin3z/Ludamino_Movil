@@ -6,7 +6,7 @@ import { width, height } from "../../styles/HomeStyles";
 const CursosScreen = () => {
     return (
         <View>
-            <Text>contestar actividad</Text>
+            <Text>contestar n actividad</Text>
         </View>
     )
 }
